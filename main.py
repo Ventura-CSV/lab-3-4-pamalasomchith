@@ -9,7 +9,7 @@ def main():
     elif (int(x) < 0) and (int(y) < 0):
         quadrant = 3
     else:
-        quadrant 4
+        quadrant = 4
         
     print(f'Quadrant: {quadrant}')
     ########################################

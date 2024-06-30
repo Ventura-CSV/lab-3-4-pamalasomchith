@@ -1,11 +1,9 @@
 def main():
-    x = int(input('Enter your input: '))
-    y = int(input('Enter your input: '))
-    """
-    ########################################
-    Code Your Program here
-    ########################################
-    """
+    x = int(input('Enter a number for x-coordinate: '))
+    y = int(input('Enter a number for y-coordinate: '))
+
+if (x > 0) and (y>0):
+    quadrant = 1
 
     print(f'Quadrant: {quadrant}')
     ########################################

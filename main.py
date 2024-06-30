@@ -12,9 +12,7 @@ def main():
         quadrant = 4
         
     print(f'Quadrant: {quadrant}')
-    ########################################
-    # Do not delete the return statement
-    ########################################
+    
     return quadrant
 
 
